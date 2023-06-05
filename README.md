@@ -1,4 +1,4 @@
-# Portfolio Website
+	# Portfolio Website
 
 This is my personal portfolio website that showcases my skills, and experience. It provides an overview of my background and serves as a platform to display my projects and achievements.
 
@@ -33,9 +33,9 @@ My portfolio website is designed to give visitors an insight into my skills, pro
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/AichaMbongo/Personal-Porfolio`
-2. Navigate to the project directory: `personal portfolio`
+1. Clone the repository: `git clone <repository-url>`
+2. Navigate to the project directory: `cd portfolio-website`
 3. Open the `index.html` file in your web browser.
 
-You can also visit my website at [https://personal-porfolio-production.up.railway.app/].
+You can also visit my website at [].
 # Personal-Porfolio
